@@ -3,23 +3,28 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/work/carsword/env/04_Flask_Blog/templates/index.html" timestamp="1563786958681">
+      <file name="C:/work/carsword/env/04_Flask_Blog/templates/index.html" timestamp="1563789320966">
         <mark key="[" line="16" column="89" />
       </file>
       <file name="/Dummy.txt" timestamp="1563762847005">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/work/carsword/env/05_django_blog_data/blog/serializers.py" timestamp="1563783732562">
-        <mark key="[" line="0" column="0" />
+      <file name="C:/work/carsword/env/05_django_blog_data/blog/serializers.py" timestamp="1563789990337">
+        <mark key="[" line="12" column="18" />
+        <mark key="]" line="12" column="24" />
+        <mark key="^" line="12" column="24" />
+        <mark key="." line="12" column="24" />
       </file>
-      <file name="C:/work/carsword/env/05_django_blog_data/blog/admin.py" timestamp="1563780878804">
+      <file name="C:/work/carsword/env/05_django_blog_data/blog/admin.py" timestamp="1563789107702">
         <mark key="[" line="2" column="28" />
       </file>
       <file name="C:/work/carsword/env/carsworld/test" timestamp="1563763361950">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/work/carsword/env/05_django_blog_data/jeblog/settings.py" timestamp="1563780377679">
-        <mark key="[" line="34" column="4" />
+      <file name="C:/work/carsword/env/05_django_blog_data/jeblog/settings.py" timestamp="1563791292615">
+        <mark key="[" line="35" column="10" />
+        <mark key="]" line="35" column="8" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="C:/work/carsword/env/get_news/requirement.txt" timestamp="1563770683394">
         <mark key="[" line="0" column="0" />
@@ -30,8 +35,8 @@
         <mark key="." line="3" column="0" />
       </file>
       <file name="C:/work/carsword/env/get_news/requirements.txt" timestamp="1563771185864" />
-      <file name="C:/work/carsword/env/05_django_blog_data/jeblog/urls.py" timestamp="1563784027019">
-        <mark key="[" line="24" column="0" />
+      <file name="C:/work/carsword/env/05_django_blog_data/jeblog/urls.py" timestamp="1563790643408">
+        <mark key="[" line="23" column="10" />
       </file>
       <file name="C:/work/carsword/env/carsworld/shape/segitiga.py" timestamp="1563769919243">
         <mark key="[" line="0" column="0" />
@@ -44,17 +49,25 @@
         <mark key="^" line="3" column="17" />
         <mark key="." line="3" column="17" />
       </file>
+      <file name="C:/work/carsword/env/05_django_blog_data/blog/urls.py" timestamp="1563790283768">
+        <mark key="[" line="9" column="17" />
+      </file>
       <file name="C:/work/carsword/env/get_news/venv/main.py" timestamp="1563771193749">
         <mark key="[" line="5" column="19" />
         <mark key="]" line="5" column="19" />
         <mark key="^" line="5" column="19" />
         <mark key="." line="5" column="19" />
       </file>
-      <file name="C:/work/carsword/env/05_django_blog_data/blog/views.py" timestamp="1563784113052">
-        <mark key="[" line="17" column="4" />
-        <mark key="]" line="16" column="31" />
-        <mark key="^" line="16" column="31" />
-        <mark key="." line="16" column="31" />
+      <file name="C:/work/carsword/env/05_django_blog_data/blog/views.py" timestamp="1563789913135">
+        <mark key="[" line="24" column="16" />
+        <mark key="]" line="26" column="24" />
+        <mark key="." line="26" column="24" />
+        <mark key="^" line="26" column="24" />
+      </file>
+      <file name="C:/work/carsword/env/05_django_blog_data/venv/Lib/site-packages/django/apps/registry.py" timestamp="1563790937437">
+        <mark key="[" line="133" column="0" />
+        <mark key="]" line="133" column="0" />
+        <mark key="." line="133" column="0" />
       </file>
       <file name="C:/work/carsword/env/carsworld/main.py" timestamp="1563770167405">
         <mark key="'" line="0" column="0" />
@@ -63,25 +76,31 @@
         <mark key="." line="69" column="0" />
         <mark key="^" line="67" column="15" />
       </file>
-      <file name="C:/work/carsword/env/04_Flask_Blog/app.py" timestamp="1563787272237">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="17" column="21" />
-        <mark key="^" line="17" column="21" />
-        <mark key="." line="17" column="21" />
+      <file name="C:/work/carsword/env/04_Flask_Blog/app.py" timestamp="1563789380991">
+        <mark key="[" line="10" column="4" />
+        <mark key="]" line="14" column="21" />
+        <mark key="^" line="14" column="21" />
+        <mark key="." line="14" column="21" />
       </file>
     </filemarks>
     <jumps>
       <jump line="0" column="0" filename="C:/work/carsword/env/carsworld/main.py" />
     </jumps>
     <registers>
-      <register name="1" type="4">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHNlcmlhbGl6ZXJfY2xhc3MgPSBQb3NhdGVnb3J5U3RTZXJpYWxpemVyCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text />
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">CkBhcGlfdmlldyhbJ1BPU1QnXSkKZGVmIHBvc3RfY2F0ZWdvcmllcyhyZXF1ZXN0KToKICAgIHF1ZXJ5c2V0ID0gQ2F0ZWdvcnkub2JqZWN0cy5hbGwoKQogICAgc2VyaWFsaWF6ZWQgPSBDYXRlZ29yeVNlcmlhbGl6ZXIocXVlcnlzZXQsIG1hbnk9VHJ1ZSkKICAgIHJldHVybiBSZXNwb25zZShzZXJpYWxpYXplZC5kYXRhKQoKCmNsYXNzIENhdGVnb3J5Vmlld1NldCh2aWV3c2V0cy5Nb2RlbFZpZXdTZXQpOgogICAgcXVlcnlzZXQgPSBDYXRlZ29yeS5vYmplY3RzLmFsbCgpCiAgICBzZXJpYWxpemVyX2NsYXNzID0gQ2F0ZWdvcnlTZXJpYWxpemVy</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>
