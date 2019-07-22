@@ -9,11 +9,23 @@
       <file name="C:/work/carsword/env/carsworld/test" timestamp="1563763361950">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/work/carsword/env/carsworld/main.py" timestamp="1563768323366">
+      <file name="C:/work/carsword/env/carsworld/shape/bujursangkar.py" timestamp="1563769994826">
+        <mark key="[" line="5" column="24" />
+        <mark key="]" line="3" column="17" />
+        <mark key="^" line="3" column="17" />
+        <mark key="." line="3" column="17" />
+      </file>
+      <file name="C:/work/carsword/env/carsworld/shape/segitiga.py" timestamp="1563769919243">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="C:/work/carsword/env/carsworld/main.py" timestamp="1563770167405">
         <mark key="'" line="0" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
-        <mark key="^" line="46" column="31" />
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="0" />
+        <mark key="." line="69" column="0" />
+        <mark key="^" line="67" column="15" />
       </file>
     </filemarks>
     <jumps>
@@ -21,10 +33,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>=</text>
       </register>
     </registers>
     <search>
@@ -43,6 +55,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
