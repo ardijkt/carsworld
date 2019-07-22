@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="C:/work/carsword/env/04_Flask_Blog/templates/index.html" timestamp="1563777844359">
+        <mark key="[" line="16" column="89" />
+      </file>
       <file name="/Dummy.txt" timestamp="1563762847005">
         <mark key="[" line="0" column="0" />
       </file>
@@ -37,7 +40,7 @@
         <mark key="." line="69" column="0" />
         <mark key="^" line="67" column="15" />
       </file>
-      <file name="C:/work/carsword/env/04_Flask_Blog/app.py" timestamp="1563776495536">
+      <file name="C:/work/carsword/env/04_Flask_Blog/app.py" timestamp="1563777919315">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
