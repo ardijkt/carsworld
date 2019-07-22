@@ -9,15 +9,25 @@
       <file name="C:/work/carsword/env/carsworld/test" timestamp="1563763361950">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/work/carsword/env/carsworld/main.py" timestamp="1563763370934">
+      <file name="C:/work/carsword/env/carsworld/main.py" timestamp="1563765118241">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
+        <mark key="[" line="12" column="19" />
+        <mark key="]" line="18" column="4" />
+        <mark key="." line="18" column="4" />
+        <mark key="^" line="19" column="17" />
       </file>
     </filemarks>
     <jumps>
       <jump line="0" column="0" filename="C:/work/carsword/env/carsworld/main.py" />
     </jumps>
-    <registers />
+    <registers>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
@@ -28,6 +38,10 @@
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
