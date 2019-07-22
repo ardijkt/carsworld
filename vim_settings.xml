@@ -9,8 +9,28 @@
       <file name="/Dummy.txt" timestamp="1563762847005">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/work/carsword/env/05_django_blog_data/blog/admin.py" timestamp="1563780878804">
+        <mark key="[" line="2" column="28" />
+      </file>
       <file name="C:/work/carsword/env/carsworld/test" timestamp="1563763361950">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/work/carsword/env/05_django_blog_data/jeblog/settings.py" timestamp="1563780377679">
+        <mark key="[" line="33" column="4" />
+      </file>
+      <file name="C:/work/carsword/env/get_news/requirement.txt" timestamp="1563770683394">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/work/carsword/env/05_django_blog_data/blog/models.py" timestamp="1563780344015">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="C:/work/carsword/env/get_news/requirements.txt" timestamp="1563771185864" />
+      <file name="C:/work/carsword/env/carsworld/shape/segitiga.py" timestamp="1563769919243">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="C:/work/carsword/env/carsworld/shape/bujursangkar.py" timestamp="1563769994826">
         <mark key="[" line="5" column="24" />
@@ -18,20 +38,11 @@
         <mark key="^" line="3" column="17" />
         <mark key="." line="3" column="17" />
       </file>
-      <file name="C:/work/carsword/env/get_news/requirement.txt" timestamp="1563770683394">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="C:/work/carsword/env/get_news/venv/main.py" timestamp="1563771193749">
         <mark key="[" line="5" column="19" />
         <mark key="]" line="5" column="19" />
         <mark key="^" line="5" column="19" />
         <mark key="." line="5" column="19" />
-      </file>
-      <file name="C:/work/carsword/env/get_news/requirements.txt" timestamp="1563771185864" />
-      <file name="C:/work/carsword/env/carsworld/shape/segitiga.py" timestamp="1563769919243">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="C:/work/carsword/env/carsworld/main.py" timestamp="1563770167405">
         <mark key="'" line="0" column="0" />
@@ -48,11 +59,14 @@
       <jump line="0" column="0" filename="C:/work/carsword/env/carsworld/main.py" />
     </jumps>
     <registers>
+      <register name="1" type="4">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="&quot;" type="4">
-        <text>=</text>
+        <text />
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text />
       </register>
     </registers>
     <search>
