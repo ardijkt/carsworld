@@ -6,7 +6,7 @@
       <file name="C:/work/carsword/env/04_Flask_Blog/templates/index.html" timestamp="1563789320966">
         <mark key="[" line="16" column="89" />
       </file>
-      <file name="C:/work/carsword/env/docker-multicontainer/docker-compose.yml" timestamp="1563869177469">
+      <file name="C:/work/carsword/env/docker-multicontainer/docker-compose.yml" timestamp="1563873782432">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1563762847005">
@@ -45,9 +45,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/work/carsword/env/docker-multicontainer/flaskapp/app.py" timestamp="1563869930682">
+      <file name="C:/work/carsword/env/docker-multicontainer/flaskapp/app.py" timestamp="1563873981630">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="1" column="10" />
+        <mark key="[" line="1" column="23" />
+        <mark key="]" line="1" column="23" />
+        <mark key="." line="1" column="23" />
       </file>
       <file name="C:/work/carsword/env/carsworld/shape/bujursangkar.py" timestamp="1563769994826">
         <mark key="[" line="5" column="24" />
@@ -75,7 +77,7 @@
         <mark key="]" line="133" column="0" />
         <mark key="." line="133" column="0" />
       </file>
-      <file name="C:/work/carsword/env/docker-multicontainer/flaskapp/Dockerfile" timestamp="1563870150681">
+      <file name="C:/work/carsword/env/docker-multicontainer/flaskapp/Dockerfile" timestamp="1563873812075">
         <mark key="[" line="0" column="18" />
         <mark key="]" line="0" column="19" />
         <mark key="." line="0" column="18" />
@@ -99,16 +101,21 @@
       <jump line="0" column="0" filename="C:/work/carsword/env/docker-multicontainer/flaskapp/app.py" />
     </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHNlcmlhbGl6ZXJfY2xhc3MgPSBQb3NhdGVnb3J5U3RTZXJpYWxpemVyCg==</text>
+      <register name="1" type="4">
+        <text>\
+    #, render_template</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>\
+    #, render_template</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CkBhcGlfdmlldyhbJ1BPU1QnXSkKZGVmIHBvc3RfY2F0ZWdvcmllcyhyZXF1ZXN0KToKICAgIHF1ZXJ5c2V0ID0gQ2F0ZWdvcnkub2JqZWN0cy5hbGwoKQogICAgc2VyaWFsaWF6ZWQgPSBDYXRlZ29yeVNlcmlhbGl6ZXIocXVlcnlzZXQsIG1hbnk9VHJ1ZSkKICAgIHJldHVybiBSZXNwb25zZShzZXJpYWxpYXplZC5kYXRhKQoKCmNsYXNzIENhdGVnb3J5Vmlld1NldCh2aWV3c2V0cy5Nb2RlbFZpZXdTZXQpOgogICAgcXVlcnlzZXQgPSBDYXRlZ29yeS5vYmplY3RzLmFsbCgpCiAgICBzZXJpYWxpemVyX2NsYXNzID0gQ2F0ZWdvcnlTZXJpYWxpemVy</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHNlcmlhbGl6ZXJfY2xhc3MgPSBQb3NhdGVnb3J5U3RTZXJpYWxpemVyCg==</text>
       </register>
       <register name="3" type="4">
+        <text encoding="base64">CkBhcGlfdmlldyhbJ1BPU1QnXSkKZGVmIHBvc3RfY2F0ZWdvcmllcyhyZXF1ZXN0KToKICAgIHF1ZXJ5c2V0ID0gQ2F0ZWdvcnkub2JqZWN0cy5hbGwoKQogICAgc2VyaWFsaWF6ZWQgPSBDYXRlZ29yeVNlcmlhbGl6ZXIocXVlcnlzZXQsIG1hbnk9VHJ1ZSkKICAgIHJldHVybiBSZXNwb25zZShzZXJpYWxpYXplZC5kYXRhKQoKCmNsYXNzIENhdGVnb3J5Vmlld1NldCh2aWV3c2V0cy5Nb2RlbFZpZXdTZXQpOgogICAgcXVlcnlzZXQgPSBDYXRlZ29yeS5vYmplY3RzLmFsbCgpCiAgICBzZXJpYWxpemVyX2NsYXNzID0gQ2F0ZWdvcnlTZXJpYWxpemVy</text>
+      </register>
+      <register name="4" type="4">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
