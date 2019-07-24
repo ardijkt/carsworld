@@ -9,14 +9,18 @@
       <file name="C:/work/carsword/env/docker-multicontainer/docker-compose.yml" timestamp="1563873782432">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/work/carsworld/env/dockerizepython/requirements.txt" timestamp="1563940303807" />
+      <file name="C:/work/carsworld/env/dockerizepython/requirements.txt" timestamp="1563941374949" />
       <file name="/Python Console" timestamp="1563874813375">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/work/carsworld/env/dockerizepython/app.py" timestamp="1563939086332" />
+      <file name="C:/work/carsworld/env/dockerizepython/app.py" timestamp="1563941736616">
+        <mark key="[" line="7" column="27" />
+        <mark key="]" line="7" column="27" />
+        <mark key="." line="7" column="27" />
+      </file>
       <file name="C:/work/carsword/env/05_django_blog_data/blog/admin.py" timestamp="1563789107702">
         <mark key="[" line="2" column="28" />
       </file>
@@ -31,7 +35,6 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="C:/work/carsworld/pycharm/env/docker-multicontainer/venv/pyvenv.cfg" timestamp="1563935653457" />
       <file name="C:/work/carsword/env/05_django_blog_data/jeblog/urls.py" timestamp="1563790643408">
         <mark key="[" line="23" column="10" />
       </file>
@@ -83,7 +86,6 @@
       <file name="C:/work/carsworld/env/dockerizepython/Dockerfile" timestamp="1563939810625">
         <mark key="[" line="5" column="25" />
       </file>
-      <file name="C:/work/carsworld/pycharm/env/docker-multicontainer/flaskapp/Dockerfile" timestamp="1563935399379" />
       <file name="C:/work/carsword/env/carsworld/shape/bujursangkar.py" timestamp="1563769994826">
         <mark key="[" line="5" column="24" />
         <mark key="]" line="3" column="17" />
@@ -112,8 +114,7 @@
 ENV LC_ALL C.UTF-8</text>
       </register>
       <register name="&quot;" type="4">
-        <text>listsENV LANG C.UTF-8
-ENV LC_ALL C.UTF-8</text>
+        <text />
       </register>
       <register name="2" type="4">
         <text encoding="base64">ICAgICMgaHR0cDovL2xvY2FsaG9zdDo1MDAwL2FwaS92MS9nZXRfY2F0ZWdvcmllcwogICAgIyBjYXRlZ29yaWVzID0gcmVxdWVzdHMuZ2V0KCdodHRwOi8vbG9jYWxob3N0OjUwMDAvYXBpL3YxL2dldF9jYXRlZ29yaWVzJykKICAgICMgY2F0ZWdvcmllcyA9IGNhdGVnb3JpZXMuanNvbigpCgogICAgIyByZXR1cm4gcmVuZGVyX3RlbXBsYXRlKCdpbmRleC5odG1sJywgbWVudT1jYXRlZ29yaWVzKQ==</text>
@@ -132,7 +133,7 @@ ENV LC_ALL C.UTF-8</text>
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>#import requests</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbXBvcnRcPg==</text>
