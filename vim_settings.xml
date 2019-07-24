@@ -26,8 +26,11 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="C:/work/carsworld/env/07_ml1/venv/03_predict_yahoo_finance_data.py" timestamp="1563953903199">
+      <file name="C:/work/carsworld/env/07_ml1/venv/03_predict_yahoo_finance_data.py" timestamp="1563955973312">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="26" />
+        <mark key="^" line="1" column="26" />
+        <mark key="." line="1" column="26" />
       </file>
       <file name="C:/work/carsword/env/05_django_blog_data/blog/admin.py" timestamp="1563789107702">
         <mark key="[" line="2" column="28" />
@@ -94,6 +97,12 @@
         <mark key="]" line="36" column="8" />
         <mark key="." line="36" column="0" />
       </file>
+      <file name="C:/work/carsworld/env/07_ml1/02_stock_prediction.py" timestamp="1563956573197">
+        <mark key="[" line="3" column="30" />
+        <mark key="]" line="20" column="11" />
+        <mark key="." line="20" column="11" />
+        <mark key="^" line="20" column="11" />
+      </file>
       <file name="C:/work/carsworld/env/07_ml1/venv/01_linear_regression.py" timestamp="1563953482312">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="16" column="21" />
@@ -133,14 +142,44 @@
     </jumps>
     <registers>
       <register name="1" type="4">
-        <text>,[[5.98150382e-154 1.27616420e-152 1.15313424e+214]
- [9.69723811e+189 2.44087707e-154 2.55515625e-152]]</text>
+        <text>[3:11 PM, 7/24/2019] +62 812-2221-975: mport csv
+import numpy as np
+from sklearn import linear_model
+import matplotlib.pyplot as plt
+[3:12 PM, 7/24/2019] +62 812-2221-975: dates = [] #x
+prices = [] #y
+[3:12 PM, 7/24/2019] +62 812-2221-975: #1 data acqusition
+def get_data(filename):
+	with open(filename,'r') as csvfile:
+		csvFileReader = csv.reader(csvfile)
+		next(csvFileReader) #skipping column names
+		for row in csvFileReader:
+			dates.append(int(row[0]))
+			prices.append(float(row[1]))
+	return</text>
       </register>
       <register name="&quot;" type="4">
+        <text>[3:11 PM, 7/24/2019] +62 812-2221-975: mport csv
+import numpy as np
+from sklearn import linear_model
+import matplotlib.pyplot as plt
+[3:12 PM, 7/24/2019] +62 812-2221-975: dates = [] #x
+prices = [] #y
+[3:12 PM, 7/24/2019] +62 812-2221-975: #1 data acqusition
+def get_data(filename):
+	with open(filename,'r') as csvfile:
+		csvFileReader = csv.reader(csvfile)
+		next(csvFileReader) #skipping column names
+		for row in csvFileReader:
+			dates.append(int(row[0]))
+			prices.append(float(row[1]))
+	return</text>
+      </register>
+      <register name="2" type="4">
         <text>,[[5.98150382e-154 1.27616420e-152 1.15313424e+214]
  [9.69723811e+189 2.44087707e-154 2.55515625e-152]]</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>aniso8601==7.0.0
 Click==7.0
 Flask==1.1.1
@@ -153,24 +192,24 @@ resources==0.0.1
 six==1.12.0
 Werkzeug==0.15.5</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>listsENV LANG C.UTF-8
 ENV LC_ALL C.UTF-8</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ICAgICMgaHR0cDovL2xvY2FsaG9zdDo1MDAwL2FwaS92MS9nZXRfY2F0ZWdvcmllcwogICAgIyBjYXRlZ29yaWVzID0gcmVxdWVzdHMuZ2V0KCdodHRwOi8vbG9jYWxob3N0OjUwMDAvYXBpL3YxL2dldF9jYXRlZ29yaWVzJykKICAgICMgY2F0ZWdvcmllcyA9IGNhdGVnb3JpZXMuanNvbigpCgogICAgIyByZXR1cm4gcmVuZGVyX3RlbXBsYXRlKCdpbmRleC5odG1sJywgbWVudT1jYXRlZ29yaWVzKQ==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>\
     #, render_template</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIHNlcmlhbGl6ZXJfY2xhc3MgPSBQb3NhdGVnb3J5U3RTZXJpYWxpemVyCg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">CkBhcGlfdmlldyhbJ1BPU1QnXSkKZGVmIHBvc3RfY2F0ZWdvcmllcyhyZXF1ZXN0KToKICAgIHF1ZXJ5c2V0ID0gQ2F0ZWdvcnkub2JqZWN0cy5hbGwoKQogICAgc2VyaWFsaWF6ZWQgPSBDYXRlZ29yeVNlcmlhbGl6ZXIocXVlcnlzZXQsIG1hbnk9VHJ1ZSkKICAgIHJldHVybiBSZXNwb25zZShzZXJpYWxpYXplZC5kYXRhKQoKCmNsYXNzIENhdGVnb3J5Vmlld1NldCh2aWV3c2V0cy5Nb2RlbFZpZXdTZXQpOgogICAgcXVlcnlzZXQgPSBDYXRlZ29yeS5vYmplY3RzLmFsbCgpCiAgICBzZXJpYWxpemVyX2NsYXNzID0gQ2F0ZWdvcnlTZXJpYWxpemVy</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
