@@ -9,31 +9,19 @@
       <file name="C:/work/carsword/env/docker-multicontainer/docker-compose.yml" timestamp="1563873782432">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1563762847005">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="C:/work/carsword/env/05_django_blog_data/blog/serializers.py" timestamp="1563789990337">
-        <mark key="[" line="12" column="18" />
-        <mark key="]" line="12" column="24" />
-        <mark key="^" line="12" column="24" />
-        <mark key="." line="12" column="24" />
-      </file>
+      <file name="C:/work/carsworld/env/dockerizepython/requirements.txt" timestamp="1563940303807" />
       <file name="/Python Console" timestamp="1563874813375">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="C:/work/carsworld/env/dockerizepython/app.py" timestamp="1563939086332" />
       <file name="C:/work/carsword/env/05_django_blog_data/blog/admin.py" timestamp="1563789107702">
         <mark key="[" line="2" column="28" />
       </file>
       <file name="C:/work/carsword/env/carsworld/test" timestamp="1563763361950">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="C:/work/carsword/env/05_django_blog_data/jeblog/settings.py" timestamp="1563846728106">
-        <mark key="[" line="34" column="5" />
-        <mark key="]" line="36" column="8" />
-        <mark key="." line="36" column="0" />
       </file>
       <file name="C:/work/carsword/env/get_news/requirement.txt" timestamp="1563770683394">
         <mark key="[" line="0" column="0" />
@@ -52,19 +40,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/work/carsword/env/docker-multicontainer/flaskapp/app.py" timestamp="1563875586555">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="5" column="14" />
-        <mark key="^" line="5" column="14" />
-        <mark key="." line="5" column="14" />
-      </file>
-      <file name="C:/work/carsworld/pycharm/env/docker-multicontainer/flaskapp/Dockerfile" timestamp="1563935399379" />
-      <file name="C:/work/carsword/env/carsworld/shape/bujursangkar.py" timestamp="1563769994826">
-        <mark key="[" line="5" column="24" />
-        <mark key="]" line="3" column="17" />
-        <mark key="^" line="3" column="17" />
-        <mark key="." line="3" column="17" />
-      </file>
       <file name="C:/work/carsword/env/05_django_blog_data/blog/urls.py" timestamp="1563790283768">
         <mark key="[" line="9" column="17" />
       </file>
@@ -80,22 +55,45 @@
         <mark key="." line="26" column="24" />
         <mark key="^" line="26" column="24" />
       </file>
-      <file name="C:/work/carsword/env/05_django_blog_data/venv/Lib/site-packages/django/apps/registry.py" timestamp="1563790937437">
-        <mark key="[" line="133" column="0" />
-        <mark key="]" line="133" column="0" />
-        <mark key="." line="133" column="0" />
-      </file>
       <file name="C:/work/carsword/env/docker-multicontainer/flaskapp/Dockerfile" timestamp="1563875904120">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="C:/work/carsword/env/carsworld/main.py" timestamp="1563770167405">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="69" column="0" />
-        <mark key="." line="69" column="0" />
-        <mark key="^" line="67" column="15" />
+      <file name="/Dummy.txt" timestamp="1563762847005">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/work/carsword/env/05_django_blog_data/blog/serializers.py" timestamp="1563789990337">
+        <mark key="[" line="12" column="18" />
+        <mark key="]" line="12" column="24" />
+        <mark key="^" line="12" column="24" />
+        <mark key="." line="12" column="24" />
+      </file>
+      <file name="C:/work/carsword/env/05_django_blog_data/jeblog/settings.py" timestamp="1563846728106">
+        <mark key="[" line="34" column="5" />
+        <mark key="]" line="36" column="8" />
+        <mark key="." line="36" column="0" />
+      </file>
+      <file name="C:/work/carsword/env/docker-multicontainer/flaskapp/app.py" timestamp="1563875586555">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="5" column="14" />
+        <mark key="^" line="5" column="14" />
+        <mark key="." line="5" column="14" />
+      </file>
+      <file name="C:/work/carsworld/env/dockerizepython/Dockerfile" timestamp="1563939810625">
+        <mark key="[" line="5" column="25" />
+      </file>
+      <file name="C:/work/carsworld/pycharm/env/docker-multicontainer/flaskapp/Dockerfile" timestamp="1563935399379" />
+      <file name="C:/work/carsword/env/carsworld/shape/bujursangkar.py" timestamp="1563769994826">
+        <mark key="[" line="5" column="24" />
+        <mark key="]" line="3" column="17" />
+        <mark key="^" line="3" column="17" />
+        <mark key="." line="3" column="17" />
+      </file>
+      <file name="C:/work/carsword/env/05_django_blog_data/venv/Lib/site-packages/django/apps/registry.py" timestamp="1563790937437">
+        <mark key="[" line="133" column="0" />
+        <mark key="]" line="133" column="0" />
+        <mark key="." line="133" column="0" />
       </file>
       <file name="C:/work/carsword/env/04_Flask_Blog/app.py" timestamp="1563846106548">
         <mark key="[" line="17" column="0" />
